@@ -24,6 +24,7 @@ Ideal para desarrolladores que quieran agregar movimiento profesional e interact
 │   ├── style.css           # Estilos base
 │   ├── index.html          # Estructura 
 
+```
 ---
 
 ## ▶️ Cómo usar
